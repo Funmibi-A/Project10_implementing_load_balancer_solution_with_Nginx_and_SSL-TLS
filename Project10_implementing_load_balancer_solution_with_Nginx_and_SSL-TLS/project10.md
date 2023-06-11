@@ -62,9 +62,6 @@ server {
 ![loadbalancer_status](./images/loadbalancer_status.png)
 
 
-
-
-
 > Verify that our configuration works – try to access your LB’s public IP address or Public DNS name from your browser:
 
     http://<Load-Balancer-Public-IP-Address-or-Public-DNS-Name>/index.php
