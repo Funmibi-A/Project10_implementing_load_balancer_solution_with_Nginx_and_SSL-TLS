@@ -1,2 +1,1 @@
-# Implementing a Loadbalancing Solution with Apache
-
+# Implementing a load balancer solution with apache
